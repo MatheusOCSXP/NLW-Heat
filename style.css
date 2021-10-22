@@ -19,8 +19,8 @@ body {
 
 main {
   background: url(siteimagens/background.svg);
-  width: 100%;
-  height: auto;
+  width: 375px;
+  height: 812px;
 }
 
 .container {
