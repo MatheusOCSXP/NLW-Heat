@@ -19,6 +19,8 @@ body {
 
 main {
   background: url(siteimagens/background.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
   width: 375px;
   height: 812px;
 }
